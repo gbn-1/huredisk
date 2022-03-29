@@ -1,2 +1,2 @@
 # huredisk
-Human Readable Disk Information - An util to make it easy to read for all your disk(s) information on Linux
+Human Readable Disk Information - An util to make it easier to read all your disk(s) information on Linux
